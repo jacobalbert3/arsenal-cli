@@ -1,0 +1,9 @@
+cli-src/
+tests/
+.arsenal/
+.github/
+.vscode/
+*.log
+tsconfig.json
+.eslintrc
+.prettierrc

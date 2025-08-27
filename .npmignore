@@ -7,3 +7,8 @@ tests/
 tsconfig.json
 .eslintrc
 .prettierrc
+.DS_Store
+.git/
+.gitignore
+node_modules/
+package-lock.json
